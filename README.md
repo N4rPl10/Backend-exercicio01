@@ -5,7 +5,7 @@ Este é o repositório do projeto final da disciplina BackEnd. Neste projeto, de
 
 - Narplio Guimaraes (prometeus.jp@gmail.com)
 - João Diniz (Joaohenriquediniz01@gmail.com)
-
+- Carlos Oliveira Santos (Carlosaov06@gmail.com)
 
 ## Descrição do Projeto
 
